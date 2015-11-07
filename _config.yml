@@ -1,0 +1,23 @@
+name: Matthew Hancock
+favicon: null
+layout_spectrum: 0.32025796570815146
+typography_spectrum: 0.7837996671441942
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.4750119831878692
+  lightness: 0.6157052277121693
+  saturation: 0.40818341355770826
+  rhythmicContrast: 0.48384951590560377
+purpose: []
